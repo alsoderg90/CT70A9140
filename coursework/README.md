@@ -1,4 +1,4 @@
-[Test Here!](https://warm-mountain-14242.herokuapp.com/#/)
+[Test Here!](https://alsoderg90.github.io/example/#/)
 
 - [x] Front-end: React (TypeScript)
 - [x] Backend: Express / .NET
@@ -9,3 +9,6 @@
 - save data 
 - delete data 
 - edit data
+
+
+![Example](https://github.com/alsoderg90/CT70A9140/blob/main/coursework/demo.gif)
