@@ -1,14 +1,14 @@
-[Test Here!](https://alsoderg90.github.io/example/#/)
+[Test Here!](https://warm-mountain-14242.herokuapp.com/)
 
 - [x] Front-end: React (TypeScript)
 - [x] Backend: Express / .NET
 - [x] Database: MongoDB
 
 
-- fetch data database and display
-- save data 
+- fetch data from database and display
+- add data 
 - delete data 
 - edit data
 
 
-![Example](https://github.com/alsoderg90/CT70A9140/blob/main/coursework/demo.gif)
+![Youtube](https://youtu.be/koVmtmty1IY)
